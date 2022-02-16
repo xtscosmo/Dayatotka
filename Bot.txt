@@ -1,0 +1,8 @@
+{
+                         "ip":"BeyondsSMP.aternos.me:",
+                         "port":17520"
+                         "name":BOT"
+
+
+
+}
